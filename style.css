@@ -1,0 +1,19 @@
+.input-wrapper {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .label {
+    width: 150px;
+    text-align: right;
+    margin-right: 10px;
+  }
+  
+  .input-field {
+    flex: 1;
+    box-sizing: border-box;
+  }
+  
+  
+  
